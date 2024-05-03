@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2019%2F10%2Fandroid-developer-challenge.html&psig=AOvVaw0sokuGWB2Nvl97iH81Tg3Z&ust=1714800208469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjrueje8IUDFQAAAAAdAAAAABAS)](https://ramanverma.dev)
+[![MasterHead](https://android-developers.googleblog.com/2019/10/android-developer-challenge.html)](https://ramanverma.dev)
 <h1 align="center">Hi 👋, I'm Raman Verma</h1>
 <h3 align="center">Android Application Developer</h3>
 

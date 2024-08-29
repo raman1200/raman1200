@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://ramanverma.dev/](https://ramanverma.dev/)
-
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **ramanverma1905@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yQnn4129th9dA0TXeLHcIRy7nsvl1qxi/view?usp=sharing](https://drive.google.com/file/d/1yQnn4129th9dA0TXeLHcIRy7nsvl1qxi/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1avpL51Gs45V2fTeVkvXG8Emztbr68y1V/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

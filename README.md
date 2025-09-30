@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raman1200&label=Profile%20views&color=0e75b6&style=flat" alt="raman1200" /> </p>
 
-- 🔭 I’m currently working on [Cipher Cart](https://github.com/raman1200/Cipher-Cart)
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m currently working as an SDE-1 (Android Developer).
 
 - 💬 Ask me about **Android Development**
 
